@@ -7,5 +7,5 @@ git clone https://github.com/hasu234/Resume_Classifier.git
 ## Inference
 to Infer on your data
 ```
-python script.py /path/to/dataset
+python script.py "/path/to/dataset"
 ```
